@@ -1,2 +1,2 @@
 # London_BikeSharing
-The London Bike Sharing Dataset includes data on bike rentals in London, with details like timestamps, weather conditions, and bike counts. Using this simple dataset to create visualizations
+The London Bike Sharing Dataset contains historical data on bike sharing in London, including variables like timestamp, weather conditions, temperature, humidity, wind speed, and the number of rented bikes. This dataset is ideal for time series analysis, forecasting, and studying the impact of weather and seasonal patterns on bike usage. I have used this simple dataset for creating a short . First step was to gather the data (Dataset available on Kaggle ) and then perform EDA and manipulations and then moving to tableau to create a dashboard
